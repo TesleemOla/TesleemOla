@@ -12,7 +12,7 @@ I'm a Software Engineer and FrontEnd developer currently seeking roles in fronte
 - I have experience working in early stage startups and fast paced development teams, using LLMs to make development process faster and augment the team.
 - 🌱 FunFact: I love continous learning and I am always eager to learn new technologies and industry-standard of writing code.
 - 😊 I’m open to opportunities in open source projects, hackathons, and mid-level development positions.
-- 💼 Job interests: Software Engineer, Front Engineer or UI Engineer, Backend development  (Mid-level).
+- 💼 Job interests: Software Engineer, Front Engineer or UI Engineer, Backend development, Fullstack Development  (Mid-level).
 - 📫 You can [view my portfolio](https://tesleemola.vercel.app/) and contact me by emailing [here](mailto:oladepotesleem5@gmail.com) or on [linkedin](https://www.linkedin.com/in/tesleemoladepo/) .
 
 
