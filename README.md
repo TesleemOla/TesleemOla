@@ -3,7 +3,7 @@
 
 *************************************************************************************************************
 
-I'm a Software Engineer and FrontEnd developer currently seeking roles in frontend and fullStack development. I'm passionate about sharing knowledge, documentation, web engineering, JavaScript, and Ecommerce. I currently create frontend designs and mockups on [my github](http://github.com/Tasleemofx) using React.js, HTML, CSS, plain javascript, Node.js (Express.js), React.js (Next.js), MongoDB, SQL (PostgreSQL)RestFul APIs and Typescript
+I'm a Software Engineer and Fullstack developer currently seeking roles in frontend and fullStack development. I'm passionate about sharing knowledge, documentation, web engineering, JavaScript, and Ecommerce. I currently create frontend designs and mockups on [my github](http://github.com/Tasleemola) using React.js, HTML, CSS, plain javascript, Node.js (Express.js), React.js (Next.js), MongoDB, SQL (PostgreSQL)RestFul APIs and Typescript
 
 **Here's a quick summary about me**:
 
